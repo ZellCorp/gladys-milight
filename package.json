@@ -8,7 +8,7 @@
     "gladys"
   ],
   "dependencies": {
-    "node-milight-promise": "0.0.9"
+    "node-milight-promise": "*"
   },
   "author": "Pierre-Gilles Leymarie",
   "license": "CC-BY-NC-SA-3.0"
